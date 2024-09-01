@@ -19,3 +19,5 @@ https://w2.btstream.xyz:19287/tv/oxax/chunks.m3u8
 https://w2.btstream.xyz:19287/tv/eroxxx/chunks.m3u8
 #EXTINF:-1 tvg-id="Venus TV" group-title="",Venus TV
 https://w2.btstream.xyz:19287/tv/venus/chunks.m3u8
+#EXTINF:-1 tvg-id="Private TV" group-title="",Private TV
+https://w2.btstream.xyz:19287/tv/private/chunks.m3u8
