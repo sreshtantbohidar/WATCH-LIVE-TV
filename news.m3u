@@ -27,3 +27,5 @@ https://w2.btstream.xyz:19287/tv/penthouse/chunks.m3u8
 https://w2.btstream.xyz:19287/tv/kinoxxx/chunks.m3u8
 #EXTINF:-1 tvg-id="Penthouse Passion" group-title="",Penthouse Passion
 https://w2.btstream.xyz:19287/tv/penthousepassion/chunks.m3u8
+#EXTINF:-1 tvg-id="Extacy HD" group-title="",Extacy HD
+https://w2.btstream.xyz:19287/tv/extasy/chunks.m3u8
