@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Playboy SD" group-title="",Playboy SD
+https://w2.btstream.xyz:19287/tv/playboy/chunks.m3u8
+#EXTINF:-1 tvg-id="FTV Midnight Hot" group-title="",FTV Midnight Hot
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FTV 4k" group-title="",FTV 4k
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kaloopy" group-title="",Kaloopy
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+#EXTINF:-1 tvg-id="A3 Bikini TV" group-title="",A3 Bikini TV
+https://vse2-na-all49.secdn.net/tvsw5-chorigin/play/prod-6496a962f5df4378afc60b62f6081b27/chunklist_sess252999228.m3u8
+#EXTINF:-1 tvg-id="Kaloopy HD" group-title="",Kaloopy HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/fe6dc86b-0ae7-40b5-91dc-3d50d70c494f/2.m3u8
