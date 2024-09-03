@@ -33,3 +33,13 @@ http://14.102.123.50:5001/live/1295.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",HBO
+https://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Lifetime
+http://212.102.60.231/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
