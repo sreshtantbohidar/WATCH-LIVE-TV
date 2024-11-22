@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Playboy SD" group-title="",Playboy SD
-https://w2.btstream.xyz:13341/tv/playboy/chunks.m3u8
 #EXTINF:-1 tvg-id="FTV Midnight Hot" group-title="",FTV Midnight Hot
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FTV 4k" group-title="",FTV 4k
@@ -11,27 +9,3 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://vse2-na-all49.secdn.net/tvsw5-chorigin/play/prod-6496a962f5df4378afc60b62f6081b27/chunklist_sess252999228.m3u8
 #EXTINF:-1 tvg-id="Kaloopy HD" group-title="",Kaloopy HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/fe6dc86b-0ae7-40b5-91dc-3d50d70c494f/2.m3u8
-#EXTINF:-1 tvg-id="Brazzers TV" group-title="",Brazzers TV
-https://w2.btstream.xyz:13341/tv/brazzers/chunks.m3u8
-#EXTINF:-1 tvg-id="OX-AX HD" group-title="",OX-AX HD
-https://w2.btstream.xyz:13341/tv/oxax/chunks.m3u8
-#EXTINF:-1 tvg-id="EROXXX HD" group-title="",EROXXX HD
-https://w2.btstream.xyz:13341/tv/eroxxx/chunks.m3u8
-#EXTINF:-1 tvg-id="Venus TV" group-title="",Venus TV
-https://w2.btstream.xyz:13341/tv/venus/chunks.m3u8
-#EXTINF:-1 tvg-id="Private TV" group-title="",Private TV
-https://w2.btstream.xyz:13341/tv/private/chunks.m3u8
-#EXTINF:-1 tvg-id="PENTHOUSE" group-title="",PENTHOUSE
-https://w2.btstream.xyz:13341/tv/penthouse/chunks.m3u8
-#EXTINF:-1 tvg-id="KINO" group-title="",KINO
-https://w2.btstream.xyz:13341/tv/kinoxxx/chunks.m3u8
-#EXTINF:-1 tvg-id="Penthouse Passion" group-title="",Penthouse Passion
-https://w2.btstream.xyz:13341/tv/penthousepassion/chunks.m3u8
-#EXTINF:-1 tvg-id="Extacy HD" group-title="",Extacy HD
-https://w2.btstream.xyz:13341/tv/extasy/chunks.m3u8
-#EXTINF:-1 tvg-id="Playboy HD" group-title="",Playboy HD
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Miami TV" group-title="",Miami TV
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-id="O la la" group-title="",O la la
-http://31.148.48.15/O-la-la/index.m3u8
