@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo="",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",SAGAM MUSIC HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music",Balle Balle (720p)
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India (720p) [Not 24/7]
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png" group-title="Music",9X Tashan
+https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-id="DesiChannel.in@SD" tvg-logo="https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png" group-title="Entertainment",Desi Channel (720p)
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png" group-title="Movies",Pitaara (720p)
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
